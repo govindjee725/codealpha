@@ -201,18 +201,20 @@ buttonActiveHover: {
     fontSize: "16px"
   },
   input: {
-    width: "100%",
-    padding: "12px 12px 12px 38px",
-    fontSize: "14px",
-    borderRadius: "8px",
-    border: "1.5px solid #d7dde5",
-    outline: "none",
-    fontFamily: "Inter, sans-serif"
-  },
+  width: "100%",
+  padding: "12px 12px 12px 38px",
+  fontSize: "14px",
+  borderRadius: "8px",
+  border: "1.5px solid #d7dde5",
+  outline: "none",
+  fontFamily: "Inter, sans-serif",
+  color: "#000" // PURE BLACK TEXT
+},
+
   button: {
     width: "100%",
     padding: "12px 0",
-    background: "#cbd3df",
+    background: "#030b16",
     borderRadius: "8px",
     fontWeight: 600,
     fontSize: "15px",
