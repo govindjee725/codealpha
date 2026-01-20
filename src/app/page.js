@@ -203,7 +203,7 @@ buttonActiveHover: {
   input: {
   width: "100%",
   padding: "12px 12px 12px 38px",
-  fontSize: "14px",
+  fontSize: "16px",
   borderRadius: "8px",
   border: "1.5px solid #d7dde5",
   outline: "none",
