@@ -3,8 +3,8 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
 export const metadata = {
-  title: "Aadhaar Verify",
-  description: "Simple ID verification system",
+  title: "Certificate Verification | Code Alpha",
+  description: " ID verification system",
 };
 
 export default function RootLayout({ children }) {
